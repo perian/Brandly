@@ -1,1 +1,1 @@
-https://perian.github.io/Brandly
+https://perian.github.io/brandly
